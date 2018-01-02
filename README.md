@@ -68,4 +68,4 @@ class BestGrid extends React.Component {
 export default BestGrid;
 ```
 
- **This repository is a fork of (https://github.com/christopherabouabdo/react-native-photo-grid)[react-native-photo-grid] with improvements**
+ **This repository is a fork of [`react-native-photo-grid`](https://github.com/christopherabouabdo/react-native-photo-grid) with improvements**
