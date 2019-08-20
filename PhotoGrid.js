@@ -3,10 +3,11 @@
 import React, { Component } from 'react';
 import {
     Dimensions,
-    ListView,
     StyleSheet,
     View,
 } from 'react-native';
+
+import ListView from 'deprecated-react-native-listview';
 
 let styles = StyleSheet.create({
     row: {
